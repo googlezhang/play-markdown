@@ -9,6 +9,7 @@ import java.util.Set;
 
 import markdown.Markdown;
 import play.Play;
+import play.cache.CacheFor;
 import play.i18n.Lang;
 import play.jobs.Job;
 import play.jobs.OnApplicationStart;
